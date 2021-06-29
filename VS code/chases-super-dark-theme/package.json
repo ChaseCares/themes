@@ -3,6 +3,17 @@
     "displayName": "Chase's Super Dark Theme",
     "description": "Chase's super dark theme",
     "version": "0.0.1",
+    "publisher": "ChaseCares",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ChaseCares/themes/tree/main/VS%20code/chases-super-dark-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "ChaseCares"
+
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },
