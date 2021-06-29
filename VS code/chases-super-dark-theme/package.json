@@ -1,0 +1,21 @@
+{
+    "name": "chases-super-dark-theme",
+    "displayName": "Chase's Super Dark Theme",
+    "description": "Chase's super dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chase's Super Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chase's Super Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
