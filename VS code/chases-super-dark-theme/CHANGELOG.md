@@ -1,8 +1,12 @@
 # Change Log
 
-All notable changes to the "chases-super-dark-theme" extension will be documented in this file.
+## [0.1.0]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- added more entities, changed some colors
+
+## [0.0.1]
+
+- basic configuration, released
 
 ## [Unreleased]
 
