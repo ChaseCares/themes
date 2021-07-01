@@ -2,7 +2,11 @@
 
 ## [0.1.6]
 
-    - Toned down some of the bright white entities, and tweak some colors
+    - toned down some of the bright white text in menus, as well as doomed active tab
+
+## [0.1.6]
+
+    - toned down some of the bright white entities, and tweak some colors
 
 ## [0.1.0]
 
@@ -14,4 +18,4 @@
 
 ## [Unreleased]
 
-- Initial release
+- initial release
