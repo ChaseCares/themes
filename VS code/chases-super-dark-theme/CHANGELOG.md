@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.11]
+
+    - adjusted colors of IntelliSense text and highlighting
+
 ## [0.1.10]
 
     - adjusted colors of title bar text highlighting
